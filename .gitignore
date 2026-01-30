@@ -1,0 +1,17 @@
+# Vector DB (rebuilt from ds notes)
+tmp_interview_chroma/
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
